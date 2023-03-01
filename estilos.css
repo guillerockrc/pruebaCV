@@ -1,0 +1,43 @@
+
+.base {
+    background-color: #85929e;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.derecha {
+  background-color: #5dade2;
+}
+
+.izquierda {
+  background-color: #e5e8e8;
+}
+
+.titulo {
+  color: #2ecc71;
+}
+
+
+.accordion-body {
+  text-align: left;
+}
+
+
+.sectorX {
+    text-align: left;
+    padding-left: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#info-adicional {
+    background-color: #76d7c4;
+    text-align: left;
+    padding-left: 1rem;
+}
+
+style="color:#5dade2;"
+style="color:#76d7c4;"
+style="color:#2ecc71;"
+style="color:#73c6b6;"
+style="color:#85929e;"
+style="color:#e5e8e8;"
